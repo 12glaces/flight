@@ -1,0 +1,5 @@
+[
+    { "id": 1, "flightNumber": "QFDQGRE34254", "status": "On Time" },
+    { "id": 2, "flightNumber": "QSDDSFGSGS32", "status": "Delayed" },
+    { "id": 3, "flightNumber": "DQFSDGSD3255", "status": "Boarding" }
+  ]
